@@ -1,0 +1,804 @@
+1675943143807	geckodriver	INFO	Listening on 127.0.0.1:54596
+1675943143878	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54597" "-foreground" "-no-remote" "-profile" "/var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofiledMlKYb"
+2023-02-09 12:45:48.201 plugin-container[69174:2943732] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-09 12:45:48.202 plugin-container[69174:2943732] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:54597
+2023-02-09 12:45:48.346 plugin-container[69174:2943732] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-09 12:45:48.346 plugin-container[69174:2943732] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-09 12:45:48.346 plugin-container[69174:2943756] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-09 12:45:48.346 plugin-container[69174:2943756] nil host used in call to allowsAnyHTTPSCertificateForHost:
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:54597/devtools/browser/e4ef57b9-b437-42f2-9663-97df2d9c8901
+1675943178051	geckodriver	INFO	Listening on 127.0.0.1:54656
+1675943178566	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54657" "-foreground" "-no-remote" "-profile" "/var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofile5QgpkI"
+1675943178935	Marionette	INFO	Marionette enabled
+2023-02-09 12:46:19.022 plugin-container[69189:2944375] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-09 12:46:19.022 plugin-container[69189:2944375] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-09 12:46:19.025 plugin-container[69189:2944375] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-09 12:46:19.025 plugin-container[69189:2944375] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-09 12:46:19.025 plugin-container[69189:2944373] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-09 12:46:19.025 plugin-container[69189:2944373] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1675943179131	Marionette	INFO	Listening on port 54666
+WebDriver BiDi listening on ws://127.0.0.1:54657
+1675943179233	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofile5QgpkI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54657/devtools/browser/c46f2db1-db20-4def-b0a2-64c5481270c8
+1675943440240	Marionette	INFO	Stopped listening on port 54666
+1675944185484	geckodriver	INFO	Listening on 127.0.0.1:55366
+1675944185993	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55367" "-foreground" "-no-remote" "-profile" "/var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofilefEg6P5"
+1675944186344	Marionette	INFO	Marionette enabled
+1675944186398	Marionette	INFO	Listening on port 55374
+2023-02-09 13:03:06.432 plugin-container[74819:2985725] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-09 13:03:06.432 plugin-container[74819:2985725] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-09 13:03:06.435 plugin-container[74819:2985725] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-09 13:03:06.435 plugin-container[74819:2985725] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-09 13:03:06.435 plugin-container[74819:2985732] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-09 13:03:06.435 plugin-container[74819:2985732] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:55367
+1675944186523	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofilefEg6P5/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55367/devtools/browser/6c945c3e-8449-4c18-8854-7e5ddae5a27f
+1675944271065	Marionette	INFO	Stopped listening on port 55374
+1675946847994	geckodriver	INFO	Listening on 127.0.0.1:57080
+1675946848512	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57081" "-foreground" "-no-remote" "-profile" "/var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofileXdH7lt"
+1675946848881	Marionette	INFO	Marionette enabled
+1675946848940	Marionette	INFO	Listening on port 57089
+2023-02-09 13:47:28.975 plugin-container[87413:3031625] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-09 13:47:28.975 plugin-container[87413:3031625] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-09 13:47:28.979 plugin-container[87413:3031625] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-09 13:47:28.979 plugin-container[87413:3031625] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-09 13:47:28.979 plugin-container[87413:3031627] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-09 13:47:28.979 plugin-container[87413:3031627] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:57081
+1675946849079	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofileXdH7lt/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57081/devtools/browser/c2508845-3c34-4842-8ce7-5f3c9ca9062a
+1675947076364	Marionette	INFO	Stopped listening on port 57089
+1675947142689	geckodriver	INFO	Listening on 127.0.0.1:57317
+1675947143210	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57318" "-foreground" "-no-remote" "-profile" "/var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofilef0b8gN"
+1675947143572	Marionette	INFO	Marionette enabled
+1675947143623	Marionette	INFO	Listening on port 57325
+2023-02-09 13:52:23.658 plugin-container[87481:3033998] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-09 13:52:23.658 plugin-container[87481:3033998] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-09 13:52:23.661 plugin-container[87481:3033998] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-09 13:52:23.661 plugin-container[87481:3033998] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-09 13:52:23.661 plugin-container[87481:3034006] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-09 13:52:23.661 plugin-container[87481:3034006] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:57318
+1675947143836	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofilef0b8gN/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57318/devtools/browser/7d7d9d4c-61cc-4287-9e66-fddaacd397c3
+1675947164770	Marionette	INFO	Stopped listening on port 57325
+1675947613902	geckodriver	INFO	Listening on 127.0.0.1:57971
+1675947614420	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57972" "-foreground" "-no-remote" "-profile" "/var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofilekOdM0M"
+1675947614784	Marionette	INFO	Marionette enabled
+1675947614845	Marionette	INFO	Listening on port 57979
+2023-02-09 14:00:14.881 plugin-container[87618:3039721] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-09 14:00:14.881 plugin-container[87618:3039721] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-09 14:00:14.885 plugin-container[87618:3039721] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-09 14:00:14.885 plugin-container[87618:3039721] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-09 14:00:14.885 plugin-container[87618:3039728] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-09 14:00:14.885 plugin-container[87618:3039728] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:57972
+1675947615084	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofilekOdM0M/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57972/devtools/browser/b620035b-4e7f-42a6-b9ca-07be4676d551
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://issuu.pdf-downloader.com."
+1675947642418	Marionette	INFO	Stopped listening on port 57979
+1675947669832	geckodriver	INFO	Listening on 127.0.0.1:58062
+1675947670345	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58063" "-foreground" "-no-remote" "-profile" "/var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofileBp5o52"
+1675947670690	Marionette	INFO	Marionette enabled
+1675947670744	Marionette	INFO	Listening on port 58070
+2023-02-09 14:01:10.778 plugin-container[87637:3040427] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-09 14:01:10.778 plugin-container[87637:3040427] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-09 14:01:10.781 plugin-container[87637:3040427] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-09 14:01:10.781 plugin-container[87637:3040427] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-09 14:01:10.782 plugin-container[87637:3040433] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-09 14:01:10.782 plugin-container[87637:3040433] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:58063
+1675947670881	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofileBp5o52/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58063/devtools/browser/63c7afd9-ff83-46b0-b85b-fece5f8f30de
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://issuu.pdf-downloader.com."
+1675948324893	Marionette	INFO	Stopped listening on port 58070
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1675948590757	geckodriver	INFO	Listening on 127.0.0.1:58657
+1675948591276	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58658" "-foreground" "-no-remote" "-profile" "/var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofile4BvVBd"
+1675948591622	Marionette	INFO	Marionette enabled
+2023-02-09 14:16:31.708 plugin-container[87811:3046305] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-09 14:16:31.708 plugin-container[87811:3046305] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-09 14:16:31.711 plugin-container[87811:3046305] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-09 14:16:31.711 plugin-container[87811:3046305] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-09 14:16:31.711 plugin-container[87811:3046303] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-09 14:16:31.711 plugin-container[87811:3046303] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1675948591823	Marionette	INFO	Listening on port 58665
+WebDriver BiDi listening on ws://127.0.0.1:58658
+1675948591997	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofile4BvVBd/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58658/devtools/browser/66da5cb0-0165-49cc-89fc-646d54084ffe
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://issuu.pdf-downloader.com."
+JavaScript error: resource://gre/actors/PrintingParent.jsm, line 19: TypeError: browser is null
+JavaScript error: chrome://remote/content/shared/RemoteError.sys.mjs, line 8: ScriptTimeoutError: Timed out after 30000 ms
+JavaScript error: chrome://remote/content/shared/RemoteError.sys.mjs, line 8: ScriptTimeoutError: Timed out after 30000 ms
+1675949574658	Marionette	INFO	Stopped listening on port 58665
+1675949601237	geckodriver	INFO	Listening on 127.0.0.1:59227
+1675949601760	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59228" "-foreground" "-no-remote" "-profile" "/var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofileB9H00F"
+1675949602138	Marionette	INFO	Marionette enabled
+1675949602196	Marionette	INFO	Listening on port 59235
+2023-02-09 14:33:22.225 plugin-container[88061:3054750] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-09 14:33:22.226 plugin-container[88061:3054750] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-09 14:33:22.233 plugin-container[88061:3054750] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-09 14:33:22.233 plugin-container[88061:3054750] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-09 14:33:22.234 plugin-container[88061:3054754] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-09 14:33:22.234 plugin-container[88061:3054754] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:59228
+1675949602329	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofileB9H00F/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59228/devtools/browser/db0da419-12f5-465b-8ab8-647d5b68fb3b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://issuu.pdf-downloader.com."
+JavaScript error: chrome://remote/content/shared/RemoteError.sys.mjs, line 8: ScriptTimeoutError: Timed out after 30000 ms
+1675949686407	Marionette	INFO	Stopped listening on port 59235
+1675949836609	geckodriver::marionette	ERROR	Failed to close browser connection: Socket is not connected (os error 57)
+1675949841953	geckodriver	INFO	Listening on 127.0.0.1:59391
+1675949842472	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--start-maximized" "--remote-debugging-port" "59392" "-foreground" "-no-remote" "-profile" "/var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofileP5a4uX"
+1675949842812	Marionette	INFO	Marionette enabled
+1675949842863	Marionette	INFO	Listening on port 59399
+2023-02-09 14:37:22.897 plugin-container[88123:3056942] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-09 14:37:22.897 plugin-container[88123:3056942] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-09 14:37:22.900 plugin-container[88123:3056942] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-09 14:37:22.900 plugin-container[88123:3056942] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-09 14:37:22.900 plugin-container[88123:3056944] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-09 14:37:22.900 plugin-container[88123:3056944] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:59392
+1675949843072	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofileP5a4uX/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59392/devtools/browser/3b19fd37-263d-4104-8d0d-0acc3f85e1dd
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://issuu.pdf-downloader.com."
+1675952503175	Marionette	INFO	Stopped listening on port 59399
+1676154749047	geckodriver	INFO	Listening on 127.0.0.1:51117
+1676154749130	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--start-maximized" "--remote-debugging-port" "51118" "-foreground" "-no-remote" "-profile" "/var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofilexbu3ea"
+1676154749509	Marionette	INFO	Marionette enabled
+1676154749556	Marionette	INFO	Listening on port 51123
+WebDriver BiDi listening on ws://127.0.0.1:51118
+2023-02-11 23:32:29.628 plugin-container[16841:3659928] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-11 23:32:29.628 plugin-container[16841:3659928] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-11 23:32:29.633 plugin-container[16841:3659928] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-11 23:32:29.633 plugin-container[16841:3659928] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-11 23:32:29.633 plugin-container[16841:3659934] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-11 23:32:29.633 plugin-container[16841:3659934] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1676154749693	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofilexbu3ea/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51118/devtools/browser/0053351b-5606-495d-9f00-9a045b027b9b
+1676154796529	Marionette	INFO	Stopped listening on port 51123
+1676154801518	geckodriver	INFO	Listening on 127.0.0.1:51198
+1676154802032	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--start-maximized" "--remote-debugging-port" "51199" "-foreground" "-no-remote" "-profile" "/var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofiles3ei7j"
+1676154802252	Marionette	INFO	Marionette enabled
+1676154802288	Marionette	INFO	Listening on port 51206
+2023-02-11 23:33:22.311 plugin-container[16860:3660794] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-11 23:33:22.311 plugin-container[16860:3660794] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-11 23:33:22.314 plugin-container[16860:3660794] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-11 23:33:22.314 plugin-container[16860:3660794] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-11 23:33:22.315 plugin-container[16860:3660800] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-11 23:33:22.315 plugin-container[16860:3660800] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:51199
+1676154802428	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofiles3ei7j/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51199/devtools/browser/b699d6b7-50b1-475e-933c-276cf80ff809
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://issuu.pdf-downloader.com."
+1676155017260	Marionette	INFO	Stopped listening on port 51206
+1676155024105	geckodriver	INFO	Listening on 127.0.0.1:51381
+1676155024624	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--start-maximized" "--remote-debugging-port" "51382" "-foreground" "-no-remote" "-profile" "/var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofilelrfRcJ"
+1676155024868	Marionette	INFO	Marionette enabled
+1676155024905	Marionette	INFO	Listening on port 51389
+2023-02-11 23:37:04.930 plugin-container[16919:3662837] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-11 23:37:04.930 plugin-container[16919:3662837] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-11 23:37:04.938 plugin-container[16919:3662837] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-11 23:37:04.938 plugin-container[16919:3662837] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-11 23:37:04.938 plugin-container[16919:3662846] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-11 23:37:04.938 plugin-container[16919:3662846] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:51382
+1676155025039	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofilelrfRcJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51382/devtools/browser/7da23b4f-6128-47fd-83c7-339d69b6bef6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://issuu.pdf-downloader.com."
+1676155165637	Marionette	INFO	Stopped listening on port 51389
+1676190719633	geckodriver	INFO	Listening on 127.0.0.1:56620
+1676190720249	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--start-maximized" "--remote-debugging-port" "56621" "-foreground" "-no-remote" "-profile" "/var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofilenNYIcL"
+1676190720561	Marionette	INFO	Marionette enabled
+1676190720600	Marionette	INFO	Listening on port 56628
+2023-02-12 09:32:00.662 plugin-container[19541:3739045] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 09:32:00.662 plugin-container[19541:3739045] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-12 09:32:00.664 plugin-container[19541:3739045] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 09:32:00.664 plugin-container[19541:3739045] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-12 09:32:00.665 plugin-container[19541:3739055] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 09:32:00.665 plugin-container[19541:3739055] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:56621
+1676190720692	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofilenNYIcL/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56621/devtools/browser/84d2fc9a-0c77-432f-9e6c-f45284ea8440
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://issuu.pdf-downloader.com."
+1676190773880	Marionette	INFO	Stopped listening on port 56628
+1676190819084	geckodriver	INFO	Listening on 127.0.0.1:56743
+1676190819603	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--start-maximized" "--remote-debugging-port" "56744" "-foreground" "-no-remote" "-profile" "/var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofiley71mqQ"
+1676190819861	Marionette	INFO	Marionette enabled
+1676190819897	Marionette	INFO	Listening on port 56751
+2023-02-12 09:33:39.921 plugin-container[19587:3740450] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 09:33:39.922 plugin-container[19587:3740450] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-12 09:33:39.924 plugin-container[19587:3740450] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 09:33:39.924 plugin-container[19587:3740450] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-12 09:33:39.924 plugin-container[19587:3740453] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 09:33:39.924 plugin-container[19587:3740453] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:56744
+1676190820033	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofiley71mqQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56744/devtools/browser/2590e45f-eca6-48c1-8427-36eaeb813d1f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://issuu.pdf-downloader.com."
+1676190901171	Marionette	INFO	Stopped listening on port 56751
+1676191045055	geckodriver	INFO	Listening on 127.0.0.1:56991
+1676191045573	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--start-maximized" "--remote-debugging-port" "56992" "-foreground" "-no-remote" "-profile" "/var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofileLgJm9L"
+1676191045825	Marionette	INFO	Marionette enabled
+1676191045860	Marionette	INFO	Listening on port 56999
+2023-02-12 09:37:25.887 plugin-container[19672:3743337] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 09:37:25.887 plugin-container[19672:3743337] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-12 09:37:25.890 plugin-container[19672:3743337] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 09:37:25.890 plugin-container[19672:3743337] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-12 09:37:25.890 plugin-container[19672:3743343] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 09:37:25.890 plugin-container[19672:3743343] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:56992
+1676191045951	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofileLgJm9L/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56992/devtools/browser/723498bb-1386-4039-9c2d-86585f51825f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://issuu.pdf-downloader.com."
+1676191188875	geckodriver	INFO	Listening on 127.0.0.1:57109
+1676191189393	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--start-maximized" "--remote-debugging-port" "57110" "-foreground" "-no-remote" "-profile" "/var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofilehSJuTI"
+1676191189640	Marionette	INFO	Marionette enabled
+1676191189676	Marionette	INFO	Listening on port 57118
+2023-02-12 09:39:49.703 plugin-container[19715:3744956] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 09:39:49.703 plugin-container[19715:3744956] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-12 09:39:49.707 plugin-container[19715:3744956] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 09:39:49.707 plugin-container[19715:3744956] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-12 09:39:49.707 plugin-container[19715:3744958] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 09:39:49.707 plugin-container[19715:3744958] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:57110
+1676191189812	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofilehSJuTI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57110/devtools/browser/083f3df7-a298-446a-973f-a0a61e7af852
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://issuu.pdf-downloader.com."
+1676191194772	Marionette	INFO	Stopped listening on port 56999
+1676191999220	Marionette	INFO	Stopped listening on port 57118
+1676192004164	geckodriver	INFO	Listening on 127.0.0.1:57568
+1676192004778	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--start-maximized" "--remote-debugging-port" "57569" "-foreground" "-no-remote" "-profile" "/var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofileLs7mQr"
+1676192005074	Marionette	INFO	Marionette enabled
+1676192005114	Marionette	INFO	Listening on port 57576
+2023-02-12 09:53:25.139 plugin-container[19927:3752289] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 09:53:25.140 plugin-container[19927:3752289] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-12 09:53:25.142 plugin-container[19927:3752289] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 09:53:25.142 plugin-container[19927:3752289] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-12 09:53:25.142 plugin-container[19927:3752297] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 09:53:25.142 plugin-container[19927:3752297] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:57569
+1676192005258	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofileLs7mQr/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57569/devtools/browser/e46ea7fa-7624-47c9-a7d1-5c7774ea1a65
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://issuu.pdf-downloader.com."
+1676192407414	Marionette	INFO	Stopped listening on port 57576
+1676201763050	geckodriver	INFO	Listening on 127.0.0.1:63124
+1676201763651	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--start-maximized" "--remote-debugging-port" "63125" "-foreground" "-no-remote" "-profile" "/var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofileXwqNGI"
+1676201763997	Marionette	INFO	Marionette enabled
+1676201764035	Marionette	INFO	Listening on port 63133
+2023-02-12 12:36:04.061 plugin-container[21874:3811837] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 12:36:04.061 plugin-container[21874:3811837] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-12 12:36:04.074 plugin-container[21874:3811837] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 12:36:04.074 plugin-container[21874:3811837] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-12 12:36:04.074 plugin-container[21874:3811841] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 12:36:04.074 plugin-container[21874:3811841] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:63125
+1676201764197	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofileXwqNGI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63125/devtools/browser/c01b63bc-aac4-44bc-9d96-89f92a723a2d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://issuu.pdf-downloader.com."
+1676201825385	Marionette	INFO	Stopped listening on port 63133
+1676202952759	geckodriver	INFO	Listening on 127.0.0.1:64019
+1676202953278	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--start-maximized" "--remote-debugging-port" "64020" "-foreground" "-no-remote" "-profile" "/var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofileWzOWui"
+1676202953560	Marionette	INFO	Marionette enabled
+1676202953606	Marionette	INFO	Listening on port 64028
+2023-02-12 12:55:53.629 plugin-container[22154:3820518] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 12:55:53.629 plugin-container[22154:3820518] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-12 12:55:53.632 plugin-container[22154:3820518] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 12:55:53.632 plugin-container[22154:3820518] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-12 12:55:53.632 plugin-container[22154:3820516] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 12:55:53.632 plugin-container[22154:3820516] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:64020
+1676202953747	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofileWzOWui/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64020/devtools/browser/444c5566-0281-499b-96e9-d3e06980dcb8
+1676202990844	Marionette	INFO	Stopped listening on port 64028
+1676203036004	geckodriver	INFO	Listening on 127.0.0.1:64148
+1676203036523	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--start-maximized" "--remote-debugging-port" "64149" "-foreground" "-no-remote" "-profile" "/var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofileGzwnXC"
+1676203036785	Marionette	INFO	Marionette enabled
+1676203036822	Marionette	INFO	Listening on port 64156
+2023-02-12 12:57:16.847 plugin-container[22183:3821495] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 12:57:16.847 plugin-container[22183:3821495] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-12 12:57:16.859 plugin-container[22183:3821495] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 12:57:16.859 plugin-container[22183:3821495] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-12 12:57:16.859 plugin-container[22183:3821500] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 12:57:16.859 plugin-container[22183:3821500] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:64149
+1676203036952	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofileGzwnXC/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64149/devtools/browser/7d338478-bc28-40b0-aebc-cfc99f4beb11
+1676203048794	Marionette	INFO	Stopped listening on port 64156
+1676203081725	geckodriver	INFO	Listening on 127.0.0.1:64238
+1676203082246	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--start-maximized" "--remote-debugging-port" "64239" "-foreground" "-no-remote" "-profile" "/var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofileK3exMt"
+1676203082523	Marionette	INFO	Marionette enabled
+1676203082560	Marionette	INFO	Listening on port 64246
+2023-02-12 12:58:02.583 plugin-container[22197:3822164] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 12:58:02.583 plugin-container[22197:3822164] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-12 12:58:02.586 plugin-container[22197:3822164] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 12:58:02.586 plugin-container[22197:3822164] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-12 12:58:02.586 plugin-container[22197:3822168] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 12:58:02.586 plugin-container[22197:3822168] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:64239
+1676203082695	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofileK3exMt/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64239/devtools/browser/77f953dd-ffcd-4af6-8e88-88c982693173
+1676203094621	Marionette	INFO	Stopped listening on port 64246
+1676203281613	geckodriver	INFO	Listening on 127.0.0.1:64429
+1676203282131	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--start-maximized" "--remote-debugging-port" "64430" "-foreground" "-no-remote" "-profile" "/var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofilelr77Qb"
+1676203282377	Marionette	INFO	Marionette enabled
+1676203282414	Marionette	INFO	Listening on port 64438
+2023-02-12 13:01:22.441 plugin-container[22255:3823633] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 13:01:22.441 plugin-container[22255:3823633] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-12 13:01:22.453 plugin-container[22255:3823633] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 13:01:22.453 plugin-container[22255:3823633] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-12 13:01:22.453 plugin-container[22255:3823638] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 13:01:22.453 plugin-container[22255:3823638] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:64430
+1676203282549	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofilelr77Qb/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64430/devtools/browser/1f0838c5-794b-4b0a-a585-6acb204c7665
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967316/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\n_getWalker@resource://devtools/client/fronts/inspector.js:91:30\ninitialize@resource://devtools/client/fronts/inspector.js:80:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967316/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\n_getWalker@resource://devtools/client/fronts/inspector.js:91:30\ninitialize@resource://devtools/client/fronts/inspector.js:80:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 106: Error: Connection closed, pending request to server0.conn0.windowGlobal4294967316/inspectorActor4, type getWalker failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:300:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+_getWalker@resource://devtools/client/fronts/inspector.js:91:30
+initialize@resource://devtools/client/fronts/inspector.js:80:12
+
+console.error: (new TypeError("topBrowsingContext is null", "resource://devtools/server/actors/watcher/browsing-context-helpers.sys.mjs", 387))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:712:37
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:762:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:632:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:712:37
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:762:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:632:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #onResponseHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1046:5
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:553:31
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:662:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1046, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1046))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:712:37
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:343:35
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #onResponseHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1046:5
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:553:31
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:662:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1046, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1046))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:712:37
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:336:35
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+1676203385048	Marionette	INFO	Stopped listening on port 64438
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1676203401073	geckodriver	INFO	Listening on 127.0.0.1:64592
+1676203401595	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--start-maximized" "--remote-debugging-port" "64593" "-foreground" "-no-remote" "-profile" "/var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofileZ5c4Sw"
+1676203401945	Marionette	INFO	Marionette enabled
+2023-02-12 13:03:22.007 plugin-container[22289:3824955] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 13:03:22.007 plugin-container[22289:3824955] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-12 13:03:22.060 plugin-container[22289:3824955] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 13:03:22.060 plugin-container[22289:3824955] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-12 13:03:22.060 plugin-container[22289:3824961] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 13:03:22.060 plugin-container[22289:3824961] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1676203402071	Marionette	INFO	Listening on port 64600
+WebDriver BiDi listening on ws://127.0.0.1:64593
+1676203402181	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofileZ5c4Sw/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64593/devtools/browser/1a1d9f01-9dc5-41f1-9d2e-f0a318e40ec3
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 568"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:568:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 568, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 568: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1676203572260	geckodriver	INFO	Listening on 127.0.0.1:64792
+1676203572781	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--start-maximized" "--remote-debugging-port" "64793" "-foreground" "-no-remote" "-profile" "/var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofilebdBvI0"
+1676203573141	Marionette	INFO	Marionette enabled
+2023-02-12 13:06:13.206 plugin-container[22331:3826364] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 13:06:13.206 plugin-container[22331:3826364] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-12 13:06:13.209 plugin-container[22331:3826364] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 13:06:13.209 plugin-container[22331:3826364] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-12 13:06:13.209 plugin-container[22331:3826362] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 13:06:13.209 plugin-container[22331:3826362] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1676203573271	Marionette	INFO	Listening on port 64801
+WebDriver BiDi listening on ws://127.0.0.1:64793
+1676203573325	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofilebdBvI0/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64793/devtools/browser/c83e43d0-397a-4be9-b563-54e723a2c4f0
+1676203585257	Marionette	INFO	Stopped listening on port 64801
+1676203597665	geckodriver	INFO	Listening on 127.0.0.1:64902
+1676203598188	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--start-maximized" "--remote-debugging-port" "64903" "-foreground" "-no-remote" "-profile" "/var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofileA8FLDu"
+1676203598451	Marionette	INFO	Marionette enabled
+1676203598489	Marionette	INFO	Listening on port 64910
+2023-02-12 13:06:38.513 plugin-container[22366:3827209] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 13:06:38.514 plugin-container[22366:3827209] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-12 13:06:38.516 plugin-container[22366:3827209] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 13:06:38.516 plugin-container[22366:3827209] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-12 13:06:38.516 plugin-container[22366:3827207] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 13:06:38.516 plugin-container[22366:3827207] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:64903
+1676203598625	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofileA8FLDu/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64903/devtools/browser/a64a9ed3-b8b3-4c10-a6cc-ff64ab7a3115
+1676203610526	Marionette	INFO	Stopped listening on port 64910
+console.error: (new TypeError("topBrowsingContext is null", "resource://devtools/server/actors/watcher/browsing-context-helpers.sys.mjs", 387))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:712:37
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:343:35
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:712:37
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:762:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:632:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:712:37
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:762:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:632:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #onResponseHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1046:5
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:553:31
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:662:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1046, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1046))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:712:37
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:343:35
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #onResponseHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1046:5
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:553:31
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:662:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1046, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1046))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+createNetworkEvent@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:179:33
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:712:37
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:336:35
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+1676203733537	geckodriver	INFO	Listening on 127.0.0.1:65093
+1676203734058	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--start-maximized" "--remote-debugging-port" "65094" "-foreground" "-no-remote" "-profile" "/var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofiletH27so"
+1676203734303	Marionette	INFO	Marionette enabled
+1676203734339	Marionette	INFO	Listening on port 65101
+2023-02-12 13:08:54.365 plugin-container[22414:3828445] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 13:08:54.366 plugin-container[22414:3828445] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-12 13:08:54.369 plugin-container[22414:3828445] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 13:08:54.369 plugin-container[22414:3828445] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-12 13:08:54.369 plugin-container[22414:3828450] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 13:08:54.369 plugin-container[22414:3828450] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:65094
+1676203734472	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofiletH27so/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65094/devtools/browser/7868c331-a521-4d41-88a6-4e8331246889
+1676203793561	geckodriver	INFO	Listening on 127.0.0.1:65234
+1676203794077	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--start-maximized" "--remote-debugging-port" "65235" "-foreground" "-no-remote" "-profile" "/var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofileezqWbY"
+1676203794431	Marionette	INFO	Marionette enabled
+2023-02-12 13:09:54.494 plugin-container[22436:3829184] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 13:09:54.494 plugin-container[22436:3829184] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-12 13:09:54.497 plugin-container[22436:3829184] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 13:09:54.497 plugin-container[22436:3829184] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-12 13:09:54.498 plugin-container[22436:3829187] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 13:09:54.498 plugin-container[22436:3829187] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1676203794560	Marionette	INFO	Listening on port 65242
+WebDriver BiDi listening on ws://127.0.0.1:65235
+1676203794623	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofileezqWbY/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65235/devtools/browser/9f3c2b06-ebc2-43c0-8434-5b74ad395fef
+1676203806277	Marionette	INFO	Stopped listening on port 65242
+1676204003519	geckodriver	INFO	Listening on 127.0.0.1:65440
+1676204004035	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--start-maximized" "--remote-debugging-port" "65441" "-foreground" "-no-remote" "-profile" "/var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofileQTecVM"
+1676204004394	Marionette	INFO	Marionette enabled
+1676204004436	Marionette	INFO	Listening on port 65449
+2023-02-12 13:13:24.458 plugin-container[22508:3831542] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 13:13:24.458 plugin-container[22508:3831542] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-12 13:13:24.471 plugin-container[22508:3831542] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 13:13:24.471 plugin-container[22508:3831542] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-12 13:13:24.471 plugin-container[22508:3831544] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 13:13:24.471 plugin-container[22508:3831544] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:65441
+1676204004511	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofileQTecVM/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65441/devtools/browser/c16c89bf-a7c9-44bc-9fba-771eb2a2ba95
+1676204016483	Marionette	INFO	Stopped listening on port 65449
+1676204789359	Marionette	INFO	Stopped listening on port 64600
+1676204933958	geckodriver	INFO	Listening on 127.0.0.1:49592
+1676204934477	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--start-maximized" "--remote-debugging-port" "49593" "-foreground" "-no-remote" "-profile" "/var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofileQR30TI"
+1676204934782	Marionette	INFO	Marionette enabled
+1676204934820	Marionette	INFO	Listening on port 49600
+2023-02-12 13:28:54.845 plugin-container[22681:3837976] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 13:28:54.845 plugin-container[22681:3837976] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-12 13:28:54.856 plugin-container[22681:3837976] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 13:28:54.856 plugin-container[22681:3837976] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-12 13:28:54.856 plugin-container[22681:3837982] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 13:28:54.856 plugin-container[22681:3837982] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:49593
+1676204934999	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofileQR30TI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49593/devtools/browser/a260670a-f559-4368-a2ed-8a0857c0f4ef
+1676205011808	geckodriver	INFO	Listening on 127.0.0.1:49745
+1676205012329	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--start-maximized" "--remote-debugging-port" "49746" "-foreground" "-no-remote" "-profile" "/var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofileql835v"
+1676205012709	Marionette	INFO	Marionette enabled
+2023-02-12 13:30:12.776 plugin-container[22710:3838990] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 13:30:12.776 plugin-container[22710:3838990] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-12 13:30:12.779 plugin-container[22710:3838990] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 13:30:12.779 plugin-container[22710:3838990] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-12 13:30:12.779 plugin-container[22710:3838996] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 13:30:12.779 plugin-container[22710:3838996] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1676205012839	Marionette	INFO	Listening on port 49753
+WebDriver BiDi listening on ws://127.0.0.1:49746
+1676205012902	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofileql835v/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49746/devtools/browser/017a5c9f-12b6-4ff4-abc4-8dedb8d5194b
+1676205067742	geckodriver	INFO	Listening on 127.0.0.1:49872
+1676205068263	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--start-maximized" "--remote-debugging-port" "49873" "-foreground" "-no-remote" "-profile" "/var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofileqlDD5e"
+1676205068661	Marionette	INFO	Marionette enabled
+2023-02-12 13:31:08.735 plugin-container[22732:3839675] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 13:31:08.735 plugin-container[22732:3839675] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-12 13:31:08.738 plugin-container[22732:3839675] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 13:31:08.738 plugin-container[22732:3839675] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-12 13:31:08.738 plugin-container[22732:3839682] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 13:31:08.738 plugin-container[22732:3839682] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1676205068794	Marionette	INFO	Listening on port 49880
+WebDriver BiDi listening on ws://127.0.0.1:49873
+1676205068957	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofileqlDD5e/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49873/devtools/browser/1ffe77d3-c940-4e46-a432-83ab265ed57e
+1676205081458	Marionette	INFO	Stopped listening on port 49880
+1676205198124	geckodriver	INFO	Listening on 127.0.0.1:50040
+1676205198639	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--start-maximized" "--remote-debugging-port" "50041" "-foreground" "-no-remote" "-profile" "/var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofileZGL6Z9"
+1676205199012	Marionette	INFO	Marionette enabled
+2023-02-12 13:33:19.071 plugin-container[22777:3840822] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 13:33:19.071 plugin-container[22777:3840822] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-12 13:33:19.073 plugin-container[22777:3840822] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 13:33:19.073 plugin-container[22777:3840822] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-12 13:33:19.074 plugin-container[22777:3840828] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 13:33:19.074 plugin-container[22777:3840828] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1676205199141	Marionette	INFO	Listening on port 50048
+WebDriver BiDi listening on ws://127.0.0.1:50041
+1676205199194	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofileZGL6Z9/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50041/devtools/browser/af79bab0-f243-447f-b08d-2dc4b171fb63
+1676205211727	Marionette	INFO	Stopped listening on port 50048
+1676205449331	Marionette	INFO	Stopped listening on port 65101
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1676205451913	Marionette	INFO	Stopped listening on port 49600
+1676205454675	Marionette	INFO	Stopped listening on port 49753
+1676205471491	geckodriver	INFO	Listening on 127.0.0.1:50416
+1676205472004	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--start-maximized" "--remote-debugging-port" "50417" "-foreground" "-no-remote" "-profile" "/var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofileQpePTW"
+1676205472416	Marionette	INFO	Marionette enabled
+2023-02-12 13:37:52.479 plugin-container[22872:3844619] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 13:37:52.479 plugin-container[22872:3844619] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-12 13:37:52.484 plugin-container[22872:3844619] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 13:37:52.484 plugin-container[22872:3844619] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-12 13:37:52.485 plugin-container[22872:3844621] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 13:37:52.485 plugin-container[22872:3844621] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1676205472547	Marionette	INFO	Listening on port 50424
+WebDriver BiDi listening on ws://127.0.0.1:50417
+1676205472700	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofileQpePTW/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50417/devtools/browser/b5201293-5e4e-4a41-92aa-c1643783a1e1
+1676205484820	Marionette	INFO	Stopped listening on port 50424
+1676205532667	geckodriver	INFO	Listening on 127.0.0.1:50525
+1676205533188	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--start-maximized" "--remote-debugging-port" "50526" "-foreground" "-no-remote" "-profile" "/var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofileQ31n1i"
+1676205533485	Marionette	INFO	Marionette enabled
+1676205533520	Marionette	INFO	Listening on port 50533
+2023-02-12 13:38:53.545 plugin-container[22892:3845402] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 13:38:53.545 plugin-container[22892:3845402] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-12 13:38:53.548 plugin-container[22892:3845402] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 13:38:53.548 plugin-container[22892:3845402] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-12 13:38:53.548 plugin-container[22892:3845400] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 13:38:53.548 plugin-container[22892:3845400] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:50526
+1676205533700	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofileQ31n1i/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50526/devtools/browser/68857c97-8295-41cd-927f-a5d5f7075309
+1676205545856	Marionette	INFO	Stopped listening on port 50533
+1676205746733	geckodriver	INFO	Listening on 127.0.0.1:50745
+1676205747256	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--start-maximized" "--remote-debugging-port" "50746" "-foreground" "-no-remote" "-profile" "/var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofileo7tRua"
+1676205747656	Marionette	INFO	Marionette enabled
+2023-02-12 13:42:27.725 plugin-container[22959:3847267] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 13:42:27.725 plugin-container[22959:3847267] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-12 13:42:27.731 plugin-container[22959:3847267] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 13:42:27.731 plugin-container[22959:3847267] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-12 13:42:27.732 plugin-container[22959:3847269] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 13:42:27.732 plugin-container[22959:3847269] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1676205747789	Marionette	INFO	Listening on port 50756
+WebDriver BiDi listening on ws://127.0.0.1:50746
+1676205747954	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofileo7tRua/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50746/devtools/browser/5e61b5fe-f7b4-48e0-b79e-3d2316050283
+1676205760226	Marionette	INFO	Stopped listening on port 50756
+1676206094949	geckodriver	INFO	Listening on 127.0.0.1:51023
+1676206095467	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--start-maximized" "--remote-debugging-port" "51024" "-foreground" "-no-remote" "-profile" "/var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofilebaoDEY"
+1676206095725	Marionette	INFO	Marionette enabled
+1676206095761	Marionette	INFO	Listening on port 51031
+2023-02-12 13:48:15.786 plugin-container[23037:3849442] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 13:48:15.786 plugin-container[23037:3849442] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-12 13:48:15.788 plugin-container[23037:3849442] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 13:48:15.788 plugin-container[23037:3849442] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-12 13:48:15.789 plugin-container[23037:3849440] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 13:48:15.789 plugin-container[23037:3849440] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:51024
+1676206095900	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofilebaoDEY/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51024/devtools/browser/97bede38-9b3d-4a5b-81c1-ca51a1da9a50
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://issuu.pdf-downloader.com."
+1676206402885	geckodriver::marionette	ERROR	Failed to close browser connection: Socket is not connected (os error 57)
+1676207258639	geckodriver	INFO	Listening on 127.0.0.1:51770
+1676207259162	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--start-maximized" "--remote-debugging-port" "51771" "-foreground" "-no-remote" "-profile" "/var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofilesha106"
+1676207259543	Marionette	INFO	Marionette enabled
+2023-02-12 14:07:39.609 plugin-container[23329:3858297] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 14:07:39.609 plugin-container[23329:3858297] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-12 14:07:39.612 plugin-container[23329:3858297] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 14:07:39.612 plugin-container[23329:3858297] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-12 14:07:39.612 plugin-container[23329:3858295] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 14:07:39.612 plugin-container[23329:3858295] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1676207259676	Marionette	INFO	Listening on port 51780
+WebDriver BiDi listening on ws://127.0.0.1:51771
+1676207259735	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofilesha106/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51771/devtools/browser/143466df-f118-482d-b4cc-f852bba186c6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://issuu.pdf-downloader.com."
+1676207440292	geckodriver	INFO	Listening on 127.0.0.1:51947
+1676207440810	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--start-maximized" "--remote-debugging-port" "51948" "-foreground" "-no-remote" "-profile" "/var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofileLKrdsa"
+1676207441190	Marionette	INFO	Marionette enabled
+2023-02-12 14:10:41.257 plugin-container[23372:3859819] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 14:10:41.257 plugin-container[23372:3859819] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-12 14:10:41.260 plugin-container[23372:3859819] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 14:10:41.260 plugin-container[23372:3859819] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-12 14:10:41.260 plugin-container[23372:3859823] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 14:10:41.260 plugin-container[23372:3859823] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1676207441322	Marionette	INFO	Listening on port 51955
+WebDriver BiDi listening on ws://127.0.0.1:51948
+1676207441375	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofileLKrdsa/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51948/devtools/browser/fc66c97a-1734-4d1c-a370-ac91bc3aaec8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://issuu.pdf-downloader.com."
+1676207914867	geckodriver	INFO	Listening on 127.0.0.1:52361
+1676207915388	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--start-maximized" "--remote-debugging-port" "52362" "-foreground" "-no-remote" "-profile" "/var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofile8G0OiA"
+1676207915694	Marionette	INFO	Marionette enabled
+1676207915736	Marionette	INFO	Listening on port 52370
+2023-02-12 14:18:35.761 plugin-container[23490:3863383] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 14:18:35.761 plugin-container[23490:3863383] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-12 14:18:35.775 plugin-container[23490:3863383] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 14:18:35.775 plugin-container[23490:3863383] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-12 14:18:35.775 plugin-container[23490:3863381] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 14:18:35.775 plugin-container[23490:3863381] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:52362
+1676207915873	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofile8G0OiA/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52362/devtools/browser/10a5990a-ae3f-4ab7-8dc3-8ceebf1a3722
+1676207974777	Marionette	INFO	Stopped listening on port 51031
+1676207976922	Marionette	INFO	Stopped listening on port 51780
+1676207979058	Marionette	INFO	Stopped listening on port 51955
+1676207981617	Marionette	INFO	Stopped listening on port 52370
+1676208097920	geckodriver	INFO	Listening on 127.0.0.1:52646
+1676208098439	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--start-maximized" "--remote-debugging-port" "52647" "-foreground" "-no-remote" "-profile" "/var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofileR7Yktl"
+1676208098772	Marionette	INFO	Marionette enabled
+1676208098822	Marionette	INFO	Listening on port 52655
+2023-02-12 14:21:38.846 plugin-container[23560:3865297] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 14:21:38.846 plugin-container[23560:3865297] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-12 14:21:38.858 plugin-container[23560:3865297] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 14:21:38.858 plugin-container[23560:3865297] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-02-12 14:21:38.858 plugin-container[23560:3865303] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-02-12 14:21:38.858 plugin-container[23560:3865303] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:52647
+1676208098887	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/q2/v3grtnnx2x77gymqg1dwnlrw0000gn/T/rust_mozprofileR7Yktl/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52647/devtools/browser/3977ac9c-55d9-4f73-b736-03142acf3477
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://issuu.pdf-downloader.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://issuu.pdf-downloader.com."
+1676208213425	Marionette	INFO	Stopped listening on port 52655
